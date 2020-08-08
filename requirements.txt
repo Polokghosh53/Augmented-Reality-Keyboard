@@ -1,0 +1,3 @@
+PyAutoGUI(LATEST)
+opencv_python(LATEST)
+numpy(LATEST)
