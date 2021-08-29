@@ -16,3 +16,7 @@ PyCharm is used here for efficient programming.
 * Now, run the `AR-Keyboard.py`.
 
 **NOTE**: Works on single finger input during the keyboard input.
+
+## Achievements
+![SESSION21](https://user-images.githubusercontent.com/57084217/131241956-cc982633-bdf2-4727-9404-15a2a5c90e51.jpg)
+![python pic](https://user-images.githubusercontent.com/57084217/131242014-048eeb45-b01e-4957-b8aa-0b6bb234ebb6.PNG)
